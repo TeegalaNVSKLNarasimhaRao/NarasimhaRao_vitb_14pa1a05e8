@@ -2,9 +2,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//You may test that your code works find here
-		//Please check that your code works and has no 
-		//compilation problems before to submit
+		Student student1=new Student(5148,"Teegala Narasimha Rao","1997-04-26",73.5);
 	}
 
 }
